@@ -1,7 +1,9 @@
-# Recipes - open food for open people
+# open recipes for open people
 
 ## Table of content
-  - Poulet Stroganoff
+  - [Meat, Meat, MEAT](Meat, Meat, MEAT)
+    - [Chicken](Chicken)
+      - [Chicken Stroganoff](Chicken Stroganoff)
 
 ## Meat, Meat, MEAT
 
@@ -26,4 +28,6 @@
 Grate a little zest from the oranges. Slice off the tops and bottoms, then peel all round the fruit down to the flesh. Divide the oranges into sixths and cut into slices approx. 1 cm thick. Retain the juice and set aside with the grated zest and the slices. Heat the clarified butter in a non-stick frying pan. Fry the meat in batches for approx. 3 mins, remove, season. Wipe the cooking fat from the pan. 
 
 In the same pan, bring the stock, cream and ketchup to the boil, reduce the heat, add the cut onion, cover and simmer the sauce for approx. 4 mins, season. Return the reserved orange slices, zest and juice and the meat to the pan and heat through. 
+
+
 
