@@ -1,9 +1,9 @@
 # open recipes for open people
 
 ## Table of content
-  - [Meat, Meat, MEAT](Meat, Meat, MEAT)
-    - [Chicken](Chicken)
-      - [Chicken Stroganoff](Chicken Stroganoff)
+  - Meat, Meat, MEAT
+    - Chicken
+      - Chicken Stroganoff
 
 ## Meat, Meat, MEAT
 
