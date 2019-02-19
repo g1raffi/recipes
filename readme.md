@@ -13,6 +13,26 @@
 
 ### Chicken
 
+#### Chicken Tajine with pears
+
+##### Igredients
+
+  - 1 chicken (about 1.3 kg)
+  - 2 onions
+  - 1 bunch coriander
+  - 50 ml olive oil
+  - 2 cinnamon sticks
+  - 1 tsp curcuma
+  - some salt & pepper
+  - 1 tsp gigner chopped
+  - 5 pears
+  - 4 tbsp honey
+  - about 3dl chicken broth
+
+##### How it's done
+
+Chop the onions and cut the chicken into 6 parts. Roast the chicken in the olive oil, and add the onions, some salt, pepper, curcuma, the ginger. After a short amount of time add about 1/4 l of chicken broth and let it cook in the covered tajine for about 40 minutes. After 30 minutes of the cooking time, cut the pears into pieces and caramelize them in a frying pan with the honey. Add the rest of the broth to the pears and add them back into the tajine. Season the tajine with salt, pepper and coriander.
+
 #### Chicken Stroganoff
 
 ##### Ingredients
