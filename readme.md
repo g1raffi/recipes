@@ -41,7 +41,7 @@ Cut the pumpkin into little cubes and put them into a baking dish and pour in so
 
 #### Chicken Tajine with pears
 
-##### Igredients
+##### Ingredients
 
   - 1 chicken (about 1.3 kg)
   - 2 onions
