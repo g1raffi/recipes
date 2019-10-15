@@ -1,13 +1,39 @@
 # open recipes for open people
 
 ## Table of content
+  - Soup for the weak
+    - Thai Curry based Pumpkin Soup
   - Meat, Meat, MEAT
     - Chicken
+      - Chicken Tajine with pears
       - Chicken Stroganoff
     - Pork
       - Bulgogi
     - Beef
       - Beef with Broccoli and Mushrooms
+
+## Soup for the weak
+
+### Thai Curry based Pumpkin Soup
+
+##### Ingredients 
+
+  - 1-3 spring onions
+  - 1 glove of garlic
+  - 1 small hocaido pumpkin (or any pumpkin you want)
+  - 1 small potato
+  - 1-2 carrots
+  - red curry paste
+  - ginger
+  - 500ml coconut milk
+  - 1 bunch coriander
+  - bag of roasted pumpkin seeds
+  - some beef stock
+
+
+##### How it's done
+
+Cut the pumpkin into little cubes and put them into a baking dish and pour in some water until all the cubes are covered. Put it into the oven for about 30 minutes at 120°C. Chop the onions, garlic, carrots, potatoes and ginger into cubes as well. Put your beloved big soup pot on fire. Start to roast the onions and garlic, add the carrots and potatoes. Add the desired amount of red curry paste and let it roast for a minute. Take the pumpkin cubes and water from the oven and add it into the pot. Add about 2dl of beef stock and let it cook for 20 minutes. After cooking blend the soup with your favorite blender until it has the desired consistency, add the coconut milk and let it cook once again. Serve with some pumpkin seeds and coriander!
 
 ## Meat, Meat, MEAT
 
