@@ -3,11 +3,11 @@
 ## Table of content
   - Soup for the weak
     - Thai Curry based Pumpkin Soup
+    - Tom kha gai
   - Meat, Meat, MEAT
     - Chicken
       - Chicken Tajine with pears
       - Chicken Stroganoff
-      - Tom kha gai
     - Pork
       - Bulgogi
     - Beef
@@ -35,6 +35,33 @@
 ##### How it's done
 
 Cut the pumpkin into little cubes and put them into a baking dish and pour in some water until all the cubes are covered. Put it into the oven for about 30 minutes at 120°C. Chop the onions, garlic, carrots, potatoes and ginger into cubes as well. Put your beloved big soup pot on fire. Start to roast the onions and garlic, add the carrots and potatoes. Add the desired amount of red curry paste and let it roast for a minute. Take the pumpkin cubes and water from the oven and add it into the pot. Add about 2dl of beef stock and let it cook for 20 minutes. After cooking blend the soup with your favorite blender until it has the desired consistency, add the coconut milk and let it cook once again. Serve with some pumpkin seeds and coriander!
+
+##### Tom kha gai
+
+###### Ingredients
+
+* 1 tablespoon coconut oil
+* ½ of one onion sliced
+* 2 cloves garlic chopped
+* ½ of one red jalapeno pepper sliced, or a couple Thai chiles, halved
+* 3 ¼-inch slices galangal or ginger
+* 1 lemongrass stalk pounded with the side of a knife and cut into 2-inch long pieces
+* 2 teaspoons red Thai curry paste
+* 4 cups chicken broth see Notes if vegan or on Whole30
+* 4 cups canned coconut cream or coconut milk see Notes
+* 2 medium chicken breasts cut into bite-sized pieces, see Notes for vegan/vegetarian or to use shrimp
+* 8 ounces white mushroom caps sliced
+* 1-2 tablespoons coconut sugar if on Whole30, see Notes
+* 1 ½ – 2 tablespoons fish sauce plus more to taste, see Notes if on Whole30 or vegan
+* 2-3 tablespoons fresh lime juice
+* 2-3 green onions sliced thin
+* fresh cilantro chopped, for garnish
+
+##### How it's done
+
+* In a medium pot, heat the coconut oil over medium heat. Add the onion, garlic, jalapeno or chile, galangal or ginger, lemongrass, and red curry paste and cook, stirring frequently, for 5 minutes, or until onions are softened. Add chicken broth and bring to a boil. Reduce heat and simmer uncovered for 30 minutes.
+* Strain out the aromatics (the garlic, onions, lemongrass, and ginger) and discard. Add in coconut cream or milk, chicken breast (or tofu or shrimp), and mushrooms. Simmer until chicken breast pieces are just cooked through, then add fish sauce, coconut aminos (or coconut sugar), and lime juice, plus more of each to taste. 
+* Cook 2 minutes, then ladle into serving bowls and top with sliced green onions and fresh cilantro.
 
 ## Meat, Meat, MEAT
 
@@ -79,33 +106,6 @@ Chop the onions and cut the chicken into 6 parts. Roast the chicken in the olive
 Grate a little zest from the oranges. Slice off the tops and bottoms, then peel all round the fruit down to the flesh. Divide the oranges into sixths and cut into slices approx. 1 cm thick. Retain the juice and set aside with the grated zest and the slices. Heat the clarified butter in a non-stick frying pan. Fry the meat in batches for approx. 3 mins, remove, season. Wipe the cooking fat from the pan. 
 
 In the same pan, bring the stock, cream and ketchup to the boil, reduce the heat, add the cut onion, cover and simmer the sauce for approx. 4 mins, season. Return the reserved orange slices, zest and juice and the meat to the pan and heat through. 
-
-##### Tom kha gai
-
-###### Ingredients
-
-* 1 tablespoon coconut oil
-* ½ of one onion sliced
-* 2 cloves garlic chopped
-* ½ of one red jalapeno pepper sliced, or a couple Thai chiles, halved
-* 3 ¼-inch slices galangal or ginger
-* 1 lemongrass stalk pounded with the side of a knife and cut into 2-inch long pieces
-* 2 teaspoons red Thai curry paste
-* 4 cups chicken broth see Notes if vegan or on Whole30
-* 4 cups canned coconut cream or coconut milk see Notes
-* 2 medium chicken breasts cut into bite-sized pieces, see Notes for vegan/vegetarian or to use shrimp
-* 8 ounces white mushroom caps sliced
-* 1-2 tablespoons coconut sugar if on Whole30, see Notes
-* 1 ½ – 2 tablespoons fish sauce plus more to taste, see Notes if on Whole30 or vegan
-* 2-3 tablespoons fresh lime juice
-* 2-3 green onions sliced thin
-* fresh cilantro chopped, for garnish
-
-##### How it's done
-
-* In a medium pot, heat the coconut oil over medium heat. Add the onion, garlic, jalapeno or chile, galangal or ginger, lemongrass, and red curry paste and cook, stirring frequently, for 5 minutes, or until onions are softened. Add chicken broth and bring to a boil. Reduce heat and simmer uncovered for 30 minutes.
-* Strain out the aromatics (the garlic, onions, lemongrass, and ginger) and discard. Add in coconut cream or milk, chicken breast (or tofu or shrimp), and mushrooms. Simmer until chicken breast pieces are just cooked through, then add fish sauce, coconut aminos (or coconut sugar), and lime juice, plus more of each to taste. 
-* Cook 2 minutes, then ladle into serving bowls and top with sliced green onions and fresh cilantro.
 
 ### Pork
 
